@@ -6,5 +6,8 @@ package pieces;
  *
  * */
 public class Piece {
+    String type;        //the type of a piece, marking a piece's child type.
+    String color_str;
+    int color_int;
 
 }

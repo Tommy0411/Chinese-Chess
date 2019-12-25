@@ -1,4 +1,4 @@
 package pieces;
 
-public class Guard {
+public class Guard  extends Piece {
 }

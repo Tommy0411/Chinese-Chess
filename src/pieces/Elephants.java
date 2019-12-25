@@ -1,4 +1,4 @@
 package pieces;
 
-public class Elephants {
+public class Elephants extends Piece{
 }

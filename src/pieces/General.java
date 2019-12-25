@@ -1,4 +1,4 @@
 package pieces;
 
-public class General {
+public class General  extends Piece{
 }
